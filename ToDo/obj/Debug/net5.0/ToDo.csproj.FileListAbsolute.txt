@@ -170,3 +170,4 @@ C:\Users\Dulanga Kithmini\RiderProjects\ToDo\ToDo\obj\Debug\net5.0\Razor\Pages\I
 C:\Users\Dulanga Kithmini\RiderProjects\ToDo\ToDo\obj\Debug\net5.0\Razor\Pages\Items\Details.cshtml.g.cs
 C:\Users\Dulanga Kithmini\RiderProjects\ToDo\ToDo\obj\Debug\net5.0\Razor\Pages\Items\Edit.cshtml.g.cs
 C:\Users\Dulanga Kithmini\RiderProjects\ToDo\ToDo\obj\Debug\net5.0\Razor\Pages\Items\Index.cshtml.g.cs
+C:\Users\Dulanga Kithmini\RiderProjects\ToDo\ToDo\obj\Debug\net5.0\Razor\Pages\Items\Capitalize.cshtml.g.cs

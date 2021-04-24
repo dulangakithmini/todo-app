@@ -4,7 +4,29 @@
     <projectFile>ToDo/ToDo.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84273f97-8292-43e4-ac14-e5625e2e8f87" name="Default Changelist" comment="" />
+    <list default="true" id="84273f97-8292-43e4-ac14-e5625e2e8f87" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ToDo/Pages/Items/Capitalize.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ToDo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ToDo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/Pages/Items/Details.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/Pages/Items/Details.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/Pages/Items/Edit.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/Pages/Items/Edit.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/Pages/Items/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/Pages/Items/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/ToDo.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/ToDo.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/myItems.db" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/myItems.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Create.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Create.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Delete.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Delete.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Details.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Details.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Edit.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Edit.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Index.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Index.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.RazorCoreGenerate.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.RazorCoreGenerate.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ref/ToDo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ref/ToDo.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +37,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ToDo/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Dulanga Kithmini/RiderProjects/ToDo/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Create.cshtml.g.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Create.cshtml.g.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -24,6 +48,14 @@
       <option value="$PROJECT_DIR$/ToDo/Startup.cs" />
       <option value="$PROJECT_DIR$/.idea/.idea.ToDo/.idea/.gitignore" />
       <option value="$PROJECT_DIR$/ToDo/.gitignore" />
+      <option value="$PROJECT_DIR$/ToDo/Pages/Items/Create.cshtml" />
+      <option value="$PROJECT_DIR$/ToDo/Pages/Items/Index.cshtml" />
+      <option value="$PROJECT_DIR$/ToDo/Pages/Items/Capitalize.cshtml.cs" />
+      <option value="$PROJECT_DIR$/ToDo/Pages/Items/Edit.cshtml.cs" />
+      <option value="$PROJECT_DIR$/ToDo/Pages/Items/Index.cshtml.cs" />
+      <option value="$PROJECT_DIR$/ToDo/Pages/Items/Edit.cshtml" />
+      <option value="$PROJECT_DIR$/ToDo/Pages/Items/Capitalize.cshtml" />
+      <option value="$PROJECT_DIR$/ToDo/Pages/Items/Details.cshtml.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1rZ07Lwve5rdtcxMN67iqpwhcVC" />
@@ -39,6 +71,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -82,7 +115,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619168142429</updated>
-      <workItem from="1619168163539" duration="11233000" />
+      <workItem from="1619168163539" duration="11994000" />
+      <workItem from="1619241462287" duration="3525000" />
     </task>
     <task id="LOCAL-00001" summary="Create ToDo app">
       <created>1619195600589</created>
@@ -91,13 +125,20 @@
       <option name="project" value="LOCAL" />
       <updated>1619195600589</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create ToDo app">
+      <created>1619195656021</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619195656021</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -109,6 +150,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
