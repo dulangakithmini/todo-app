@@ -9,12 +9,8 @@
       <change beforePath="$PROJECT_DIR$/ToDo/Pages/Items/Capitalize.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/Pages/Items/Capitalize.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDo/myItems.db" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/myItems.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Capitalize.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Capitalize.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Edit.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Edit.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Index.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Index.cshtml.g.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.Views.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.Views.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +25,9 @@
     <setting file="file://$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Capitalize.cshtml.g.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Dulanga Kithmini/RiderProjects/ToDo/ToDo/Pages/Items/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Dulanga Kithmini/RiderProjects/ToDo/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Create.cshtml.g.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Dulanga Kithmini/RiderProjects/ToDo/ToDo/Pages/Items/Capitalize.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Create.cshtml.g.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Dulanga Kithmini/RiderProjects/ToDo/ToDo/Pages/Items/Capitalize.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Dulanga Kithmini/RiderProjects/ToDo/ToDo/Pages/Items/Capitalize.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -108,7 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1619168142429</updated>
       <workItem from="1619168163539" duration="11994000" />
-      <workItem from="1619241462287" duration="11647000" />
+      <workItem from="1619241462287" duration="15369000" />
     </task>
     <task id="LOCAL-00001" summary="Create ToDo app">
       <created>1619195600589</created>
@@ -152,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619252277913</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Remove Due date field from Capitalize page">
+      <created>1619254214576</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1619254214576</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,7 +185,8 @@
     <MESSAGE value="Put create ToDo option to Index page" />
     <MESSAGE value="Save capitalized ToDos to the database" />
     <MESSAGE value="Commit uncommitted Capitalize.xshtml.cs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit uncommitted Capitalize.xshtml.cs" />
+    <MESSAGE value="Remove Due date field from Capitalize page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove Due date field from Capitalize page" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
