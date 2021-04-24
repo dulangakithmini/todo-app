@@ -6,18 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="84273f97-8292-43e4-ac14-e5625e2e8f87" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ToDo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ToDo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDo/Models/Item.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/Models/Item.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDo/Pages/Items/Capitalize.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/Pages/Items/Capitalize.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDo/Pages/Items/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/Pages/Items/Edit.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDo/Pages/Items/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/Pages/Items/Index.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDo/myItems.db" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/myItems.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Capitalize.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Capitalize.cshtml.g.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Edit.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Edit.cshtml.g.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Index.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Index.cshtml.g.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.Views.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.Views.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ToDo.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ref/ToDo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo/obj/Debug/net5.0/ref/ToDo.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +26,11 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ToDo/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Capitalize.cshtml.g.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Dulanga Kithmini/RiderProjects/ToDo/ToDo/Pages/Items/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/Dulanga Kithmini/RiderProjects/ToDo/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Create.cshtml.g.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ToDo/obj/Debug/net5.0/Razor/Pages/Items/Create.cshtml.g.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Dulanga Kithmini/RiderProjects/ToDo/ToDo/Pages/Items/Capitalize.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -44,11 +43,11 @@
       <option value="$PROJECT_DIR$/ToDo/Pages/Items/Details.cshtml.cs" />
       <option value="$PROJECT_DIR$/ToDo/Pages/Items/Index.cshtml.cs" />
       <option value="$PROJECT_DIR$/ToDo/Models/Item.cs" />
-      <option value="$PROJECT_DIR$/ToDo/Pages/Items/Capitalize.cshtml.cs" />
-      <option value="$PROJECT_DIR$/ToDo/Pages/Items/Capitalize.cshtml" />
       <option value="$PROJECT_DIR$/ToDo/Pages/Items/Edit.cshtml" />
       <option value="$PROJECT_DIR$/ToDo/Pages/Items/Edit.cshtml.cs" />
       <option value="$PROJECT_DIR$/ToDo/Pages/Items/Index.cshtml" />
+      <option value="$PROJECT_DIR$/ToDo/Pages/Items/Capitalize.cshtml" />
+      <option value="$PROJECT_DIR$/ToDo/Pages/Items/Capitalize.cshtml.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1rZ07Lwve5rdtcxMN67iqpwhcVC" />
@@ -109,7 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1619168142429</updated>
       <workItem from="1619168163539" duration="11994000" />
-      <workItem from="1619241462287" duration="10085000" />
+      <workItem from="1619241462287" duration="11647000" />
     </task>
     <task id="LOCAL-00001" summary="Create ToDo app">
       <created>1619195600589</created>
@@ -139,7 +138,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619246754105</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Save capitalized ToDos to the database">
+      <created>1619252093238</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619252093238</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit uncommitted Capitalize.xshtml.cs">
+      <created>1619252277913</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619252277913</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +178,9 @@
     <MESSAGE value="Create ToDo app" />
     <MESSAGE value="Add capitalize option" />
     <MESSAGE value="Put create ToDo option to Index page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Put create ToDo option to Index page" />
+    <MESSAGE value="Save capitalized ToDos to the database" />
+    <MESSAGE value="Commit uncommitted Capitalize.xshtml.cs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit uncommitted Capitalize.xshtml.cs" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
